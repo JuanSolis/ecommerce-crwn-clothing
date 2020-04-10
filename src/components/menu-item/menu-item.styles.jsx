@@ -62,10 +62,6 @@ export const MenuItemContainer = styled.div`
     }
 `;
 
-
-
-
-
 export const Title = styled.h1`
     font-weight: bold;
     margin-bottom: 6px;

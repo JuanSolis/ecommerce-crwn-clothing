@@ -23,11 +23,10 @@ export const ImageContainer = styled.div`
     padding-right: 15px;
 `;
 
-export const Image = styled.image`
+export const Img = styled.img`
     width: 100%;
-    height: 100%;
-
-    content: url(${getImage})
+    height:100%;
+    content: url(${getImage});
 `;
 
 export const Name = styled.span`
